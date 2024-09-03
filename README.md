@@ -1,6 +1,8 @@
 # EXPERIMENT--01-ALP-FOR-8086
 Name : OVIYA P
+
 Roll no :212223110033
+
 Date of experiment : 20-08-2024
 
 
@@ -88,6 +90,7 @@ HLT
 
 
 ## Output  
+![image](https://github.com/user-attachments/assets/1f8716da-ed9f-4ccf-b657-f08bbe0b4bad)
 
  
 ## Subtraction   of 8 bit numbers  ALP 
