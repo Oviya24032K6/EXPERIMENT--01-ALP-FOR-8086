@@ -3,7 +3,7 @@ Name : OVIYA P
 
 Roll no :212223110033
 
-Date of experiment : 20-08-2024
+Date of experiment : 30-08-2024
 
 
 
@@ -134,7 +134,7 @@ HLT
 
 
 ## Result :
-Thus, To write and execute ALP on fundamental arithmetic operations is successful.
+Thus, To write and execute ALP on fundamental arithmetic operations and logical operations has done is successful.
  
 
 
