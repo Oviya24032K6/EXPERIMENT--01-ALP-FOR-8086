@@ -131,6 +131,62 @@ HLT
 ## Output  
 ![image](https://github.com/user-attachments/assets/292f3adf-bb87-41a9-999b-c458bdeca778)
 
+## Program for Logical Operations
+## AND
+```
+org 100h
+
+MOV BX,04H; 
+MOV AX,08H;
+OR BX,AX;
+MOV [200H],AX;
+
+ret
+```
+## OUTPUT
+<img width="882" alt="image" src="https://github.com/user-attachments/assets/694a09cb-2351-41f7-a68e-53e19b78e332">
+
+## OR
+```
+org 100h
+
+MOV BX,04H; 
+MOV AX,08H;
+OR AX,BX;
+MOV [700H],AX;
+
+ret
+```
+## OUTPUT
+<img width="880" alt="image" src="https://github.com/user-attachments/assets/9cc817c3-1eff-4b0d-ad34-06fca6cc3f54">
+
+## XOR
+```
+org 100h
+
+MOV BX,014H; 
+MOV AX,08H;
+XOR AX,BX;
+MOV [700H],AX;
+
+ret
+```
+## OUTPUT
+<img width="884" alt="image" src="https://github.com/user-attachments/assets/01884920-6fec-404b-b06d-76fc280f5384">
+
+## NOT
+```
+org 100h
+
+MOV AX,04H;
+NOT AX;
+MOV [400],AX;
+ret
+```
+## OUTPUT
+<img width="797" alt="image" src="https://github.com/user-attachments/assets/0a324688-2d83-4588-a484-a80e919f1002">
+
+
 
 
 ## Result :
